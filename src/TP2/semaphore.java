@@ -14,7 +14,7 @@ public abstract class semaphore {
 		wait();
         }
 	    valeur--;
-	} catch(InterruptedException e){}
+	} catch(InterruptedException ignored){}
     }
 
     public synchronized void syncSignal(){
