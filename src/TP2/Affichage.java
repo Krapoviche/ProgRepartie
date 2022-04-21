@@ -1,4 +1,4 @@
-package A; /**
+package TP2; /**
  * 
  */
 import java.lang.String;
