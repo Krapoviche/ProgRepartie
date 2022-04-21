@@ -13,7 +13,7 @@ public class Affichage extends Thread{
 	String texte;
 	static Exclusion ex = new Exclusion();
 
-	public Affichage (String txt){texte=txt;}
+	public Affichage (String txt){texe=txt;}
 	
 	public void run(){
 
