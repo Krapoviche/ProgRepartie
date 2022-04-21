@@ -1,4 +1,4 @@
-package TP2;
+package A;
 
 public abstract class semaphore {
 
